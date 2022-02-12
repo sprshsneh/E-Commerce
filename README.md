@@ -1,4 +1,4 @@
-# E-Commerce# E-Commerce
+# E-Commerce
 Case Study: Automate E-Commerce website
 
 Problem Statement:  
